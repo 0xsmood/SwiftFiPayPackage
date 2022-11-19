@@ -18,5 +18,10 @@
   },
   "main": "./index.js",
   "author": "Dhruv-2003",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwiftFi/SwiftFiPayPackage",
+    "directory": ""
+  }
 }
